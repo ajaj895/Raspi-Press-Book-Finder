@@ -1,0 +1,9 @@
+com\ajaj895\RpiPress\RaspiPressBookFinder.class
+com\ajaj895\RpiPress\MPBook\MagPiBookFinder.class
+com\ajaj895\RpiPress\HSBook\utils\FileManager.class
+com\ajaj895\RpiPress\HSBook\HackSpaceBookFinder.class
+com\ajaj895\RpiPress\WFBook\WireframeBookFinder.class
+com\ajaj895\RpiPress\CPCBook\utils\FileManager.class
+com\ajaj895\RpiPress\WFBook\utils\FileManager.class
+com\ajaj895\RpiPress\CPCBook\CustomPcBookFinder.class
+com\ajaj895\RpiPress\MPBook\utils\FileManager.class
